@@ -32,4 +32,7 @@ Fueled by a year of web development prowess, I'm a #MERNstack dreamer and compet
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Cibiyanna26/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=EffiTrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/EffiTrack)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=DS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/DS)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Portfolio_26&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/Portfolio_26)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Algo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/Algo)
