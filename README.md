@@ -24,15 +24,28 @@ Fueled by a year of web development prowess, I'm a #MERNstack dreamer and compet
 <p align="left"> <a href="https://www.github.com/Cibiyanna26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/cibiyanna_26/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cibiyanna-p-449394259" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/22929743/cibiyanna26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/PCibiyanna" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@cibiyanna_26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
+<h4>My GitHub Stats</h4>
 
-<a href="http://www.github.com/Cibiyanna26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cibiyanna26&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Cibiyanna26&count_private=true&show_icons=true&theme=react" display:/>
+<img width="425" src="https://streak-stats.demolab.com/?user=Cibiyanna26&theme=react" />
+</p>
 
-<a href="https://github.com/Cibiyanna26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cibiyanna26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+<h4>My Github Contribution</h4>
+<p>
+  <a href="https://github.com/Cibiyanna26">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cibiyanna26&theme=react" alt="Mikey GitHub Contribution"/>
+  </a>
+</p>
+<br>
+<a href="https://github.com/Cibiyanna26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cibiyanna26&langs_count=10&theme=react&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=EffiTrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/EffiTrack)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=DS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/DS)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Portfolio_26&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/Portfolio_26)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Algo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Cibiyanna26/Algo)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=EffiTrack&theme=react)](https://github.com/Cibiyanna26/EffiTrack)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=DS&theme=react)](https://github.com/Cibiyanna26/DS)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Portfolio_26&theme=react)](https://github.com/Cibiyanna26/Portfolio_26)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Cibiyanna26&repo=Algo&theme=react)](https://github.com/Cibiyanna26/Algo)
+
+
