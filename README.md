@@ -1,7 +1,7 @@
 <h1 align="center">Kaisen !</h1>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p> -->
 
-<a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/cce9JqwPFkY?si=BIQh9dXk9rEdkHDD)"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="(https://youtu.be/cce9JqwPFkY?si=BIQh9dXk9rEdkHDD)"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
 <samp>coding is fun and I love it 🤍</samp>
