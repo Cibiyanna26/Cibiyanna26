@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=cce9JqwPFkY"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-<samp></samp>
+<samp>A leaf of faith 🍁</samp>
 </div>
 
 <!--<div align="center">
