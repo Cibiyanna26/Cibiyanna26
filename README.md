@@ -6,6 +6,7 @@
 <div align="center">
 <swap align="center">A Leaf of Faith 🍁</swap>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cibiyanna26&label=Profile%20views&color=0e75b6&style=flat" alt="Cibiyanna26" /> </p>
 
 <!-- <div align = "center">
 <h3><b>Profile visits</b></h3>
