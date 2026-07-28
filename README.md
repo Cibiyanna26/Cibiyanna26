@@ -4,7 +4,7 @@
 <a href="https://youtube.com/shorts/eTtPGZaZgxE?si=cLiXI6UU4njckNEC"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-<swap align="center">A Leaf of Faith 🍁</swap>
+<swap align="center">A Leap of Faith 🍁</swap>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cibiyanna26&label=Profile%20views&color=0e75b6&style=flat" alt="Cibiyanna26" /> </p>
 
